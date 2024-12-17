@@ -20,9 +20,7 @@ I'm a passionate Full-Stack Developer from Morocco, dedicated to building effici
 
 ## 🌐 Socials:
 Feel free to connect with me on:
-- [LinkedIn](https://www.linkedin.com/in/aymane-rachid)  
-- [GitHub](https://github.com/aymanerachid)
-
+- [LinkedIn](https://www.linkedin.com/in/aymane-rachid-106700317/)  
 ## 🛠️ Tech Stack:
 ### 🚀 Front-End:
 - HTML5, CSS3, JavaScript, React, Bootstrap, TailwindCSS
