@@ -51,7 +51,7 @@ Développeur Full-Stack passionné par la création d'applications dynamiques et
 
 ## 🔄 Expérience Professionnelle
 
-### **Développeur Full-Stack (Stage )** – REVONTIC TECHNOLOGIES  
+### **Développeur Full-Stack ** – REVONTIC TECHNOLOGIES  
 **Déc. 2024 – Présent**  
 - Développement d'une application de gestion des grades pour grandes écoles.  
 - **Technologies** : `CodeIgniter`, `MVC`, `MySQL`, `Git`, `Slack`.
