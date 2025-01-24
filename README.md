@@ -15,37 +15,11 @@ Développeur Full-Stack passionné par la création d'applications dynamiques et
 
 ## 💼 Compétences
 
-### **Front-End**:
-- `React`
-- `ViteJS`
-- `JavaScript`
-- `Bootstrap`
-- `Tailwind`
-- `jQuery`
-
-### **Back-End**:
-- `Laravel`
-- `PHP`
-- `Python`
-- `WordPress`
-
-### **Bases de données**:
-- `SQL`
-- `NoSQL`
-
-### **APIs**:
-- `API RESTful`
-
-### **Outils & Méthodes**:
-- `Git/GitHub`
-- `Jira`
-- `Slack`
-- `SEO`
-- `Agile/Scrum`
-- `Figma`
-- `Canva`
-
----
+### **Front-End**: `React`, `ViteJS`, `JavaScript`, `Bootstrap`, `Tailwind`, `jQuery`  
+### **Back-End**: `Laravel`, `PHP`, `Python`, `WordPress`  
+### **Bases de données**: `SQL`, `NoSQL`  
+### **APIs**: `API RESTful`  
+### **Outils & Méthodes**: `Git/GitHub`, `Jira`, `Slack`, `SEO`, `Agile/Scrum`, `Figma`, `Canva`
 
 ## 🏅 Certifications
 
