@@ -5,46 +5,47 @@ I'm a passionate **Full-Stack Developer** from Morocco, specializing in **React*
 Welcome to my GitHub profile!
 
 ## 💻 About Me:
-- 🎓 **Currently pursuing my second year** in Web Development with a focus on **React**, **Laravel**, **SQL**, and **RESTful APIs**.
-- 🚀 **Skilled in Full-Stack Development** with experience in building dynamic and responsive web applications.
-- 🌱 Always learning new tools and technologies to stay updated with the latest trends in tech.
-- 📚 Proficient in **Front-End** and **Back-End Development** with hands-on experience in **React**, **PHP**, **MySQL**, **Python**, and more.
-- ⚡ Fun fact: I love exploring new technologies and enjoy taking on challenging projects.
+| **Aspect**             | **Details**                                                                                                  |
+|------------------------|--------------------------------------------------------------------------------------------------------------|
+| 🎓 **Education**        | **Second year in Web Development** with a focus on **React**, **Laravel**, **SQL**, and **RESTful APIs**.     |
+| 🚀 **Skills**           | **Full-Stack Development** – experience in dynamic and responsive web applications.                          |
+| 🌱 **Learning**         | Always learning new tools and technologies to stay updated with the latest trends in tech.                    |
+| 📚 **Proficiencies**    | **Front-End** and **Back-End Development** (React, PHP, MySQL, Python).                                      |
+| ⚡ **Fun Fact**          | I love exploring new technologies and enjoy taking on challenging projects.                                   |
+| 👨‍💻 **GitHub**         | [GitHub](https://github.com/aymanecloclo)                                                                    |
 
 ## 🔭 Current Focus:
-- Developing **React-based projects** to improve my skills.
-- Learning tools like **Next.js**, **Docker**, and **CI/CD pipelines**.
-- Expanding knowledge in **Cloud Computing** and **Artificial Intelligence**.
+| **Focus Area**         | **Details**                                                                                                     |
+|------------------------|-----------------------------------------------------------------------------------------------------------------|
+| React Projects         | Developing **React-based** projects to improve my skills.                                                       |
+| Learning Tools         | Exploring tools like **Next.js**, **Docker**, and **CI/CD pipelines**.                                          |
+| AI & Cloud Computing   | Expanding knowledge in **Cloud Computing** and **Artificial Intelligence**.                                     |
 
 ## 💬 Ask Me About:
-- Full-Stack Development
-- Cloud Computing and DevOps
-- Best practices in **React** and **PHP**.
+- **Full-Stack Development**
+- **Cloud Computing** and **DevOps**
+- Best practices in **React** and **PHP**
 
 ## 🌐 Socials:
-Feel free to connect with me on:
-- [LinkedIn](https://www.linkedin.com/in/aymane-rachid-106700317/)  
-- [Portfolio](https://aymanecloclo.github.io/Portfolio)  
-- [GitHub](https://github.com/aymanecloclo)
+| **Platform**   | **Link**                                                                                                      |
+|----------------|----------------------------------------------------------------------------------------------------------------|
+| LinkedIn       | [LinkedIn](https://www.linkedin.com/in/aymane-rachid-106700317/)                                               |
+| Portfolio      | [Portfolio](https://aymanecloclo.github.io/Portfolio)                                                          |
+| GitHub         | [GitHub](https://github.com/aymanecloclo)                                                                      |
 
 ## 🛠️ Tech Stack:
-### 🚀 Front-End:
-- **HTML5**, **CSS3**, **JavaScript**, **React**, **ViteJS**, **Bootstrap**, **TailwindCSS**, **jQuery**
-### ⚙️ Back-End:
-- **Laravel**, **PHP**, **Python**, **WordPress**
-### 📚 Databases:
-- **SQL**, **NoSQL**
-### 🔗 APIs:
-- **RESTful APIs**
-### ☁️ DevOps & Tools:
-- **Docker**, **Git**, **GitHub Actions**, **Apache**, **Nginx**, **Jira**
-### 🎨 Design:
-- **Figma**, **Canva**
-### 📱 Other:
-- **React Native**
+| **Category**   | **Tools**                                                                                                     |
+|----------------|----------------------------------------------------------------------------------------------------------------|
+| Front-End      | **HTML5**, **CSS3**, **JavaScript**, **React**, **ViteJS**, **Bootstrap**, **TailwindCSS**, **jQuery**          |
+| Back-End       | **Laravel**, **PHP**, **Python**, **WordPress**                                                                |
+| Databases      | **SQL**, **NoSQL**                                                                                             |
+| APIs           | **RESTful APIs**                                                                                                |
+| DevOps & Tools | **Docker**, **Git**, **GitHub Actions**, **Apache**, **Nginx**, **Jira**                                       |
+| Design         | **Figma**, **Canva**                                                                                            |
+| Other          | **React Native**                                                                                                |
 
 ## 📊 GitHub Stats:
-[![Aymane's GitHub stats](https://github-readme-stats.vercel.app/api?username=aymanerachid&show_icons=true&theme=radical)](https://github.com/aymanerachid)
+[![Aymane's GitHub stats](https://github-readme-stats.vercel.app/api?username=aymanecloclo&show_icons=true&theme=radical)](https://github.com/aymanecloclo)
 
 ## ✍️ Random Dev Quote:
 > "The only way to do great work is to love what you do." – Steve Jobs
@@ -54,47 +55,48 @@ Feel free to connect with me on:
 ## 📑 Résumé Professionnel
 
 ### **Education**:
-- **Développement Digital – Option Full-Stack**  
-  ISTA Sala Al Jadida, Sep. 2023 – Juin 2025  
-  **Skills**: React, Laravel, MySQL, RESTful APIs, NoSQL, Bootstrap
-
-- **Baccalauréat en Sciences Physiques (Mention Très Bien)**  
-  Lycée Kadi Ayad, Maroc, Sept. 2018 – Juin 2019
-
-- **Formation en Économie et Gestion**  
-  Université d’Angers, France, Sept. 2019 – Juin 2022
+| **Degree**                      | **Institution**                      | **Dates**                       |
+|----------------------------------|--------------------------------------|---------------------------------|
+| Développement Digital – Full-Stack | ISTA Sala Al Jadida, Maroc           | Sep. 2023 – Juin 2025           |
+| Baccalauréat en Sciences Physiques | Lycée Kadi Ayad, Maroc               | Sept. 2018 – Juin 2019          |
+| Formation en Économie et Gestion  | Université d’Angers, France          | Sept. 2019 – Juin 2022          |
 
 ### **Experience**:
-- **Conseiller Service Client – Coriolis-EDF, Angers, France**  
-  Nov. 2021 – Juil. 2022  
-  - Optimisation de la satisfaction client, gestion de la relation client.
-
-- **Développeur Full-Stack et Fondateur – FSCodersHub**  
-  Création et gestion d'une communauté de développeurs, développement d'applications web, gestion d'une équipe Agile.
+| **Position**               | **Company**                            | **Dates**                      |
+|----------------------------|----------------------------------------|--------------------------------|
+| Conseiller Service Client   | Coriolis-EDF, Angers, France           | Nov. 2021 – Juil. 2022         |
+| Développeur Full-Stack & Fondateur | FSCodersHub                        | Sept. 2023 – Présent           |
 
 ### **Certifications**:
-- **Advanced React** (Meta)
-- **Agile Development and Scrum** (IBM)
-- **UX/UI Design** (Orange)
-- **Version Control** (Meta)
-- **Backend Development** (IBM)
-- **SQL** (University of Colorado Boulder)
+| **Certification**                        | **Issuing Organization**        | **Date**                       |
+|------------------------------------------|---------------------------------|--------------------------------|
+| Certification Laravel                    | Orange                          | Déc. 2024                      |
+| Advanced React                           | Meta                            | Oct. 2024                      |
+| Agile Development and Scrum              | IBM                             | Sept. 2024                     |
+| UX/UI Design                             | Orange                          | Déc. 2023                      |
+| Version Control                          | Meta                            | Janvier 2024                   |
+| Backend Development                      | IBM                             | Mai 2024                       |
+| SQL                                      | University of Colorado Boulder   | Juin 2024                      |
 
 ### **Languages**:
-- **Français**: Niveau C1 TCF (CIEP 2019)
-- **Anglais**: Niveau B2 (ALC Rabat)
-- **Arabe**: Langue maternelle
+| **Language**   | **Level**                         |
+|----------------|-----------------------------------|
+| Français       | Niveau C1 TCF (CIEP 2019)         |
+| Anglais        | Niveau B2 (ALC Rabat)             |
+| Arabe          | Langue maternelle                 |
 
 ---
 
 ## 🧑‍💻 Projects:
-- **WeatherApp**: Météo app avec React et API RESTful, réduction du temps de chargement de 25%.
-- **AyShop**: E-commerce Full-Stack avec React, Laravel, et MySQL, gestion des utilisateurs et paiements sécurisés.
-- **FullStackCodeHub**: Plateforme communautaire pour développeurs avec React et Node.js, partage de projets et ressources.
+| **Project**            | **Description**                                                                                               |
+|------------------------|---------------------------------------------------------------------------------------------------------------|
+| WeatherApp             | Météo app with React and RESTful API, reduced loading time by 25%.                                            |
+| AyShop                 | Full-Stack e-commerce platform with React, Laravel, and MySQL, secure payment and user management.             |
+| FullStackCodeHub       | Developer community platform with React and Node.js, sharing projects and resources.                          |
+| Todo List App          | A task management app built with React, using Context API for state management.                                |
+| Chat Application       | A real-time chat app using WebSocket, React for the front-end, and Node.js for the back-end.                  |
 
 ## 📧 Contact:
-- Email: [aymane.rachid.web@gmail.com](mailto:aymane.rachid.web@gmail.com)  
-- Phone: +212 6 18 94 1000  
-- Portfolio: [aymanecloclo.github.io/Portfolio](https://aymanecloclo.github.io/Portfolio)
-  
-Thanks for visiting my profile! Feel free to check out my [projects](https://github.com/aymanecloclo) and get in touch if you'd like to collaborate.  
+| **Email**                            | **Phone**                   | **Portfolio**                               |
+|--------------------------------------|-----------------------------|---------------------------------------------|
+| [aymane.rachid.web@gmail.com](mailto:aymane.rachid.web@gmail.com) | +212 6 18 94 1000            | [aymanecloclo.github.io/Portfolio](https://aymanecloclo.github.io/Portfolio) |
