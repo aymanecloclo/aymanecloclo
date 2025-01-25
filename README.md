@@ -3,50 +3,32 @@
 Développeur **Full-Stack** passionné, en quête constante de nouveaux défis. Actuellement en **deuxième année** de développement web, je me concentre sur **React.js**, **Laravel**, et des solutions Cloud pour créer des expériences web performantes. Je suis certifié dans plusieurs technologies modernes et je cherche toujours à apprendre et à innover.
 
 🔭 **Actuellement** : Travaillant sur des applications web évolutives et des plateformes collaboratives avec **React**, **Node.js**, **Laravel**, et plus encore.
-
 ---
-
+## 📬 Me contacter
+Je suis ouvert aux opportunités de collaboration et de développement. Tu veux en savoir plus ou discuter d'un projet ? Contacte-moi à [aymane.rachid.web@gmail.com](mailto:aymane.rachid.web@gmail.com)
+---
+## 🌍 Liens
+[![Portfolio Badge](https://img.shields.io/badge/Portfolio-0e9c92?logo=github&logoColor=white)](https://aymanecloclo.github.io/Portfolio)  
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aymane-rachid-106700317/)
+---
+## 🔗 Badges (pour l’interactivité)
+[![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white)](https://reactjs.org/)  
+[![Node.js Badge](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)](https://nodejs.org/)  
+[![AWS Badge](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)  
+[![Agile Badge](https://img.shields.io/badge/Agile%20/Scrum-0e9c92?logo=scrum&logoColor=white)](https://www.scrum.org/)
 ## 🛠️ Technologies et Compétences
 
-### **Front-End**  
-🖥️ **React.js**, **ViteJS**, **Tailwind CSS**, **JavaScript**, **TypeScript**, **Bootstrap**, **jQuery**
+### **Front-End**: 🖥️ **React.js**, **ViteJS**, **Tailwind CSS**, **JavaScript**, **TypeScript**, **Bootstrap**, **jQuery**
 
-### **Back-End**  
-🔙 **Laravel**, **Node.js**, **PHP**, **Python**, **WordPress**
+### **Back-End**  :🔙 **Laravel**, **Node.js**, **PHP**, **Python**, **WordPress**
 
-### **Bases de données**  
-🗃️ **SQL**, **NoSQL** (MongoDB, MySQL, PostgreSQL)
+### **Bases de données**  :🗃️ **SQL**, **NoSQL** (MongoDB, MySQL, PostgreSQL)
 
-### **Outils & Méthodologies**  
-⚙️ **Git/GitHub**, **Docker**, **Postman**, **Jira**, **Slack**, **Figma**, **Canva**, **SEO**, **Agile/Scrum**
+### **Outils & Méthodologies**  :⚙️ **Git/GitHub**, **Docker**, **Postman**, **Jira**, **Slack**, **Figma**, **Canva**, **SEO**, **Agile/Scrum**
 
-### **Cloud & Déploiement**  
-🌐 **AWS**, **Azure**, **Firebase**
+### **Cloud & Déploiement**  🌐 **AWS**, **Azure**, **Firebase**
 
----
-
-## 🌱 Projets en cours 🚀
-
-### **WeatherApp** 🌦️  
-**Technologies** : `React`, `API RESTful`  
-Une application météo rapide et épurée, réduisant le temps de chargement de 25% grâce à un design minimaliste et une gestion optimisée des données.
-
-![WeatherApp Screenshot](https://via.placeholder.com/800x400.png?text=WeatherApp+Project)
-
-### **AyShop** 🛍️  
-**Technologies** : `React`, `Laravel`, `MySQL`  
-Plateforme de commerce électronique full-stack avec gestion des utilisateurs et intégration des paiements sécurisés.  
-
-![AyShop Screenshot](https://via.placeholder.com/800x400.png?text=AyShop+Project)
-
-### **FullStackCodeHub** 💻  
-**Technologies** : `React`, `Node.js`  
-Une plateforme communautaire pour développeurs, permettant de partager des ressources et des projets.  
-
-![FullStackCodeHub Screenshot](https://via.placeholder.com/800x400.png?text=FullStackCodeHub+Project)
-
----
-
+-----
 ## 🎓 Certifications
 
 - **Laravel Certification** – Orange (Déc. 2024)
@@ -72,29 +54,6 @@ Gestion d’une équipe de développeurs avec mise en place d’une méthodologi
 **Nov. 2021 – Juil. 2022**  
 Gestion des relations clients et développement des compétences en communication.
 
----
-
-## 📬 Me contacter
-
-Je suis ouvert aux opportunités de collaboration et de développement. Tu veux en savoir plus ou discuter d'un projet ? Contacte-moi à [aymane.rachid.web@gmail.com](mailto:aymane.rachid.web@gmail.com)
-
----
-
-## 🌍 Liens
-
-[![Portfolio Badge](https://img.shields.io/badge/Portfolio-0e9c92?logo=github&logoColor=white)](https://aymanecloclo.github.io/Portfolio)  
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aymane-rachid-106700317/)
-
----
-
-## 🔗 Badges (pour l’interactivité)
-
-[![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white)](https://reactjs.org/)  
-[![Node.js Badge](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)](https://nodejs.org/)  
-[![AWS Badge](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)  
-[![Agile Badge](https://img.shields.io/badge/Agile%20/Scrum-0e9c92?logo=scrum&logoColor=white)](https://www.scrum.org/)
-
----
 
 ## 🔄 Contribution & Open Source
 
