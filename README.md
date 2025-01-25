@@ -31,13 +31,19 @@ Développeur **Full-Stack** passionné, en quête constante de nouveaux défis. 
 **Technologies** : `React`, `API RESTful`  
 Une application météo rapide et épurée, réduisant le temps de chargement de 25% grâce à un design minimaliste et une gestion optimisée des données.
 
+![WeatherApp Screenshot](https://via.placeholder.com/800x400.png?text=WeatherApp+Project)
+
 ### **AyShop** 🛍️  
 **Technologies** : `React`, `Laravel`, `MySQL`  
-Plateforme de commerce électronique full-stack avec gestion des utilisateurs et intégration des paiements sécurisés. 
+Plateforme de commerce électronique full-stack avec gestion des utilisateurs et intégration des paiements sécurisés.  
+
+![AyShop Screenshot](https://via.placeholder.com/800x400.png?text=AyShop+Project)
 
 ### **FullStackCodeHub** 💻  
 **Technologies** : `React`, `Node.js`  
-Une plateforme communautaire pour développeurs, permettant de partager des ressources et des projets.
+Une plateforme communautaire pour développeurs, permettant de partager des ressources et des projets.  
+
+![FullStackCodeHub Screenshot](https://via.placeholder.com/800x400.png?text=FullStackCodeHub+Project)
 
 ---
 
@@ -67,6 +73,7 @@ Gestion d’une équipe de développeurs avec mise en place d’une méthodologi
 Gestion des relations clients et développement des compétences en communication.
 
 ---
+
 ## 📬 Me contacter
 
 Je suis ouvert aux opportunités de collaboration et de développement. Tu veux en savoir plus ou discuter d'un projet ? Contacte-moi à [aymane.rachid.web@gmail.com](mailto:aymane.rachid.web@gmail.com)
@@ -74,8 +81,10 @@ Je suis ouvert aux opportunités de collaboration et de développement. Tu veux 
 ---
 
 ## 🌍 Liens
-- **Portfolio** : [Voir mon Portfolio](https://aymanecloclo.github.io/Portfolio)
-- **LinkedIn** : [Me connecter sur LinkedIn](https://www.linkedin.com/in/aymane-rachid-106700317/)
+
+[![Portfolio Badge](https://img.shields.io/badge/Portfolio-0e9c92?logo=github&logoColor=white)](https://aymanecloclo.github.io/Portfolio)  
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aymane-rachid-106700317/)
+
 ---
 
 ## 🔗 Badges (pour l’interactivité)
@@ -90,6 +99,8 @@ Je suis ouvert aux opportunités de collaboration et de développement. Tu veux 
 ## 🔄 Contribution & Open Source
 
 Je suis également un contributeur actif à plusieurs projets open source. Si tu veux contribuer ou suivre mes contributions, consulte mon profil GitHub !
+
+[![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/aymanecloclo)
 
 ---
 
