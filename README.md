@@ -75,7 +75,7 @@ Je suis ouvert aux opportunités de collaboration et de développement. Tu veux 
 
 ## 🌍 Liens
 - **Portfolio** : [Voir mon Portfolio](https://aymanecloclo.github.io/Portfolio)
-- **LinkedIn** : [Me connecter sur LinkedIn]([https://www.linkedin.com/in/aymanerachid/](https://www.linkedin.com/in/aymane-rachid-106700317/))
+- **LinkedIn** : [Me connecter sur LinkedIn](https://www.linkedin.com/in/aymane-rachid-106700317/)
 ---
 
 ## 🔗 Badges (pour l’interactivité)
