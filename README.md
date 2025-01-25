@@ -67,13 +67,6 @@ Gestion d’une équipe de développeurs avec mise en place d’une méthodologi
 Gestion des relations clients et développement des compétences en communication.
 
 ---
-
-## 📊 Stats GitHub
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=aymanecloclo&show_icons=true&hide_title=true&count_private=true&theme=radical)
-
----
-
 ## 📬 Me contacter
 
 Je suis ouvert aux opportunités de collaboration et de développement. Tu veux en savoir plus ou discuter d'un projet ? Contacte-moi à [aymane.rachid.web@gmail.com](mailto:aymane.rachid.web@gmail.com)
@@ -81,12 +74,8 @@ Je suis ouvert aux opportunités de collaboration et de développement. Tu veux 
 ---
 
 ## 🌍 Liens
-
 - **Portfolio** : [Voir mon Portfolio](https://aymanecloclo.github.io/Portfolio)
-- **GitHub** : [Voir mes projets sur GitHub](https://github.com/aymanecloclo)
-- **LinkedIn** : [Me connecter sur LinkedIn](https://www.linkedin.com/in/aymanerachid/)
-- **Twitter** : [Me suivre sur Twitter](https://twitter.com/aymanerachid)
-
+- **LinkedIn** : [Me connecter sur LinkedIn]([https://www.linkedin.com/in/aymanerachid/](https://www.linkedin.com/in/aymane-rachid-106700317/))
 ---
 
 ## 🔗 Badges (pour l’interactivité)
