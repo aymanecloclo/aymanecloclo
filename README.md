@@ -13,10 +13,7 @@ Certifié par **Meta**, **IBM**, et **Orange**, je crée des applications web **
 ---
 ## 🛠️ Compétences
 
-**Front-End**:  
-[![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white)](https://reactjs.org/)  
-[![ViteJS Badge](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)](https://vitejs.dev/)  
-[![Tailwind CSS Badge](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)  
+**Front-End**:  [![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white)](https://reactjs.org/) , [![ViteJS Badge](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)](https://vitejs.dev/)  ,[![Tailwind CSS Badge](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)  
 
 **Back-End**:  
 [![Laravel Badge](https://img.shields.io/badge/Laravel-F55247?logo=laravel&logoColor=white)](https://laravel.com/)  
