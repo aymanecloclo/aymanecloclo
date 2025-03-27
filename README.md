@@ -1,54 +1,78 @@
-👋 Bienvenue sur mon GitHub !
-Je suis Aymane Rachid, un Développeur Full-Stack passionné, spécialisé en React.js, Laravel et Cloud Computing.
-J’adore explorer les technologies modernes, créer des applications performantes et partager mes connaissances avec la communauté.
+# 👋 Bienvenue sur mon GitHub !
 
-🚀 Projets Phares
-🔹 WeatherApp – Une application météo développée avec React et une API RESTful.
-🔹 AyShop – Une plateforme e-commerce complète avec React (Frontend) et Laravel (Backend).
-🔹 FullStackCodeHub – Un réseau social conçu pour les développeurs, permettant le partage de code et d’expériences.
+**Aymane Rachid**  
+🚀 *Développeur Full-Stack | Cloud Enthusiast | Future AI Expert*
 
-📌 Retrouvez plus de projets sur mon GitHub !
+---
 
-🛠 Compétences Techniques
-🎨 Frontend
-React.js, Next.js, TypeScript
+## 🧑‍💻 À propos de moi
 
-Tailwind CSS, Bootstrap, jQuery
+```javascript
+const aymane = {
+  code: ["JavaScript", "PHP", "Python", "Java"],
+  technologies: {
+    frontend: ["React", "Next.js", "Tailwind CSS", "Bootstrap"],
+    backend: ["Laravel", "Node.js", "Express", "Django"],
+    cloud: ["AWS", "Google Cloud", "Azure", "Docker"],
+    databases: ["MySQL", "MongoDB", "PostgreSQL"],
+  },
+  architecture: ["Microservices", "Serverless", "SPA", "RESTful APIs"],
+  currentFocus: "AI & Cybersecurity",
+  motto: "Code with passion, deploy with precision!"
+};
 
-Webpack, Vite
+🛠 Stack Technique
+🌈 Frontend
+React
+Next.js
+TypeScript
+Tailwind CSS
 
 ⚙️ Backend
-Laravel, Node.js, Express.js
-
-Python (Django, Flask)
-
-PHP, MySQL, MongoDB
+Laravel
+Node.js
+Python
 
 ☁️ Cloud & DevOps
-Docker, Kubernetes
+AWS
+Docker
+Kubernetes
 
-AWS (EC2, S3, Lambda), Google Cloud, Azure
+🚀 Projets Marquants
+Projet	Description	Technologies
+WeatherApp	Application météo temps réel	React, OpenWeather API
+AyShop	Plateforme e-commerce complète	Laravel, React, Stripe API
+FullStackCodeHub	Réseau social pour développeurs	MERN Stack (MongoDB, Express, React, Node.js)
+📈 Mes Stats GitHub
+Aymane's GitHub stats
 
-CI/CD avec GitHub Actions
+Top Langs
 
-🛡 Cybersécurité & Performance
-OWASP Security Best Practices
+🌱 En train d'apprendre
+🤖 Machine Learning avec TensorFlow
 
-Optimisation des performances web
+🔐 Pentesting & Ethical Hacking
 
-Sécurisation des API et bases de données
+☁️ Architectures Serverless avancées
 
-📚 Ce que j'apprends actuellement
-🔹 Intelligence Artificielle (Machine Learning, Deep Learning)
-🔹 Optimisation des performances dans les applications web
-🔹 Déploiement avancé sur AWS et Google Cloud
+📫 Contactez-moi
+Gmail
+LinkedIn
+Twitter
+Portfolio
 
-📫 Contact & Réseaux
-📩 Email : aymane.rachid.web@gmail.com
-💼 LinkedIn : Aymane Rachid
-🌐 Portfolio : aymanecloclo.github.io/Portfolio
 
-🚀 Toujours prêt pour des collaborations et projets open-source !
-💡 Si vous avez une idée innovante, discutons-en !
+### Améliorations apportées :
+1. **Design moderne** avec badges colorés et emojis
+2. **Section "À propos" originale** sous forme d'objet JavaScript
+3. **Tableau des projets** pour une meilleure lisibilité
+4. **Statistiques GitHub** intégrées automatiquement
+5. **Badges de contact** cliquables
+6. **Structure plus aérée** avec séparateurs
+7. **Citation inspirante** en bas de page
 
-📢 N'oubliez pas de ⭐ mes projets si vous les trouvez utiles ! 😊
+Pour utiliser les stats GitHub, vous devez :
+1. Installer l'application [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
+2. Personnaliser les couleurs/thèmes si besoin
+
+Vous pouvez ajuster les couleurs et technologies selon vos préférences !
