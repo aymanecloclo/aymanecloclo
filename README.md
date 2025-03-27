@@ -1,80 +1,54 @@
-# 💻 **Aymane Rachid**  
-#### *Concepteur Développeur Full-Stack | React.js*  
+👋 Bienvenue sur mon GitHub !
+Je suis Aymane Rachid, un Développeur Full-Stack passionné, spécialisé en React.js, Laravel et Cloud Computing.
+J’adore explorer les technologies modernes, créer des applications performantes et partager mes connaissances avec la communauté.
 
----
+🚀 Projets Phares
+🔹 WeatherApp – Une application météo développée avec React et une API RESTful.
+🔹 AyShop – Une plateforme e-commerce complète avec React (Frontend) et Laravel (Backend).
+🔹 FullStackCodeHub – Un réseau social conçu pour les développeurs, permettant le partage de code et d’expériences.
 
-### 🚀 **Expertise Technique**  
+📌 Retrouvez plus de projets sur mon GitHub !
 
-#### **Front-End Avancé**  
-- **React.js,  TypeScript, Tailwind CSS, ShadCN UI**  
-- Interfaces dynamiques et performantes  
+🛠 Compétences Techniques
+🎨 Frontend
+React.js, Next.js, TypeScript
 
-#### **Back-End Performant**  
-- **Laravel, Node.js, Python, MySQL, MongoDB**  
-- APIs robustes et scalables avec une architecture modulaire  
+Tailwind CSS, Bootstrap, jQuery
 
-#### **Infrastructure Cloud**  
-- **AWS, Docker, Kubernetes**  
-- Déploiement et gestion d'applications distribuées  
+Webpack, Vite
 
----
+⚙️ Backend
+Laravel, Node.js, Express.js
 
-### 🏆 **Certifications**  
+Python (Django, Flask)
 
-- **Advanced React**  
-- **Agile Development and Scrum**  
-- **Computer Hardware Basics**  
-- **Front-End Software Engineering**  
-- **GE Aerospace - Explore Digital Technology Job Simulation**  
+PHP, MySQL, MongoDB
 
----
+☁️ Cloud & DevOps
+Docker, Kubernetes
 
-### 💼 **Expériences Professionnelles**  
+AWS (EC2, S3, Lambda), Google Cloud, Azure
 
-#### **Développeur Full-Stack - Revontic Technologies** *(Janvier 2025 - Présent | Rabat, Maroc)*  
-- Développement de fonctionnalités Backend complexes  
-- Optimisation des performances et correction des bugs  
-- Ajout de nouvelles fonctionnalités  
-- Collaboration avec l’équipe pour assurer la qualité  
+CI/CD avec GitHub Actions
 
-#### **Technical Lead - FSCodersHub** *(Septembre 2024 - Présent | Rabat, Maroc)*  
-- Développement d'applications web évolutives avec React, Laravel, MySQL, MongoDB  
-- Contribution à des projets open-source et mentorat  
-- Suivi des tendances technologiques et application des meilleures pratiques  
-- Support technique et renforcement de l’esprit d’équipe  
+🛡 Cybersécurité & Performance
+OWASP Security Best Practices
 
-#### **Chargé de Clientèle - EDF** *(Novembre 2021 - Novembre 2022 | Angers, France)*  
-- Optimisation des processus pour améliorer l’expérience client  
-- Atteinte des objectifs de satisfaction et fidélisation  
-- Gestion des interactions clients et suivi des transactions  
+Optimisation des performances web
 
----
+Sécurisation des API et bases de données
 
-### 🎓 **Éducation**  
+📚 Ce que j'apprends actuellement
+🔹 Intelligence Artificielle (Machine Learning, Deep Learning)
+🔹 Optimisation des performances dans les applications web
+🔹 Déploiement avancé sur AWS et Google Cloud
 
-- **DTS en Développement Digital - Option Full-Stack** *(2023 - 2025)*  
-  *Institut Spécialisé de Technologie Appliquée*  
-- **Économie de Gestion** *(2019 - 2022)*  
-  *IAE Angers*  
-- **Baccalauréat Scientifique - Mention Très Bien** *(2018 - 2019)*  
-  *Lycée Cady Ayyad*  
+📫 Contact & Réseaux
+📩 Email : aymane.rachid.web@gmail.com
+💼 LinkedIn : Aymane Rachid
+🌐 Portfolio : aymanecloclo.github.io/Portfolio
 
----
+🚀 Toujours prêt pour des collaborations et projets open-source !
+💡 Si vous avez une idée innovante, discutons-en !
 
-### 📜 **Honors & Awards**  
-
-- **Create a Backpack React Web App - Problem Solving**  
-- **Digital Intro Job Simulation**  
-- **Explore Digital Technology Job Simulation**  
-- **Participation à l'événement Cisco "Infrastructure Security - The Backbone of the Digital World"**  
-- **Participation à une solution d'architecture : conception d'une architecture d'hébergement simple et évolutive**  
-
----
-
-### 📫 **Contact**  
-
-- 📧 [Email](mailto:aymane.rachid.web@gmail.com)  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/aymanerachid-106700317/)  
-
-🌟 *Ouvert aux opportunités et collaborations sur des projets innovants !*
-
+📢 N'oubliez pas de ⭐ mes projets si vous les trouvez utiles ! 😊
